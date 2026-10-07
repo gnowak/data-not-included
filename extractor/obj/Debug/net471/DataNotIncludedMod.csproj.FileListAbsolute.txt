@@ -1,5 +1,0 @@
-C:\Users\geoff\Documents\antigravity\data-not-included\extractor\obj\Debug\net471\DataNotIncludedMod.csproj.AssemblyReference.cache
-C:\Users\geoff\Documents\antigravity\data-not-included\extractor\obj\Debug\net471\DataNotIncludedMod.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\geoff\Documents\antigravity\data-not-included\extractor\obj\Debug\net471\DataNotIncludedMod.AssemblyInfoInputs.cache
-C:\Users\geoff\Documents\antigravity\data-not-included\extractor\obj\Debug\net471\DataNotIncludedMod.AssemblyInfo.cs
-C:\Users\geoff\Documents\antigravity\data-not-included\extractor\obj\Debug\net471\DataNotIncludedMod.csproj.CoreCompileInputs.cache
